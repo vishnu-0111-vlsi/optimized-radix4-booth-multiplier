@@ -113,7 +113,7 @@ Power improvement vs other architectures (8-bit):
 
 ### Radix-4 Booth encoding
 
-![Radix-4 encoding groups](images/radix4_booth_encoding.png)
+![Radix-4 encoding groups](images/radix_4_encoding.png)
 
 Overlapping 3-bit Booth groups on the extended multiplier.
 
