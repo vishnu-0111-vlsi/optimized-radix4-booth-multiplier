@@ -52,4 +52,4 @@ Power analyzed using Cadence Genus.
 | 32-bit | ~15%         | ~8%               | ~31%            |
 | 64-bit | ~18%         | ~4.5%             | ~32%            |
 
-[Project Report] (https://docs.google.com/document/d/1Npv85sXkLTVvp9YEiVnpWUUIwE8JMmoJ/edit?usp=sharing&ouid=111495225955283301723&rtpof=true&sd=true)
+[Project Report](https://docs.google.com/document/d/1Npv85sXkLTVvp9YEiVnpWUUIwE8JMmoJ/edit?usp=sharing&ouid=111495225955283301723&rtpof=true&sd=true)
