@@ -147,7 +147,7 @@ Post-synthesis netlist showing multiplicand multiples, booth encoder stages, and
 
 ### Simulation waveform
 
-![Simulation waveform](images/simulation_waveform_result.png)
+![Simulation waveform](radix_4_encoding.png)
 
 Functional verification with multiple test vectors. Example: 12 x 14 = 168.
 
